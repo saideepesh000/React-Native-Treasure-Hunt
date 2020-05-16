@@ -1,5 +1,5 @@
 const vars = {
-    googleApiKey: 'AIzaSyDIKgtNtK5Vf5PiwapRSvUepH5H3uMyuj4'
+    googleApiKey: 'Google-Maps-API'
 };
 
 export default vars;
